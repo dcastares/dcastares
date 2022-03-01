@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-### - 🔭 I’m currently working on building Wordpress websites and games in Unity.
-### - 👯 I’m collaborating with the YouTube channel  https://www.youtube.com/c/Porunavezquenosjuntamos (check it out!) 
-### - 💬 Ask me about photography, always looking for new angles to document stuff.
-### - 📫 How to reach me: diego.castares@gmail.com
+### - 🔭 I’m currently working on building games mainly in Unity.
+### - 💬 Always happy to discuss oportunities and new projects so don't hesitate on contacting me.
+### - 📫 You can reach me at diego.castares@gmail.com
 
 
