@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### - 🕹️ I’m currently working building videogames, mainly in Unity.
+### - 🕹️ I have a .net background, but currently working as a game developer, mainly in Unity.
 ### - 🔬 Doing some research and playing around with VR/AR.
 ### - 💬 Always happy to discuss ideas, oportunities and new projects so don't hesitate on contacting me.
 ### - 📫 You can reach me at diego.castares@gmail.com
